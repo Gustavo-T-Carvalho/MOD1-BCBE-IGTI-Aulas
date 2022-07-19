@@ -1,0 +1,70 @@
+{
+  "nextId": 19,
+  "accounts": [
+    {
+      "id": 2,
+      "name": "Maira Silveira e Silva",
+      "balance": 256
+    },
+    {
+      "id": 3,
+      "name": "Gabriel Teixeira",
+      "balance": 453
+    },
+    {
+      "id": 5,
+      "name": "Gustavo Teixeira Carvalho",
+      "balance": 200
+    },
+    {
+      "id": 7,
+      "name": "Maira Silveira e Silva",
+      "balance": 256
+    },
+    {
+      "id": 8,
+      "name": "Gustavo Teixeira Carvalho 3",
+      "balance": 2002
+    },
+    {
+      "id": 9,
+      "name": "Maira Silveira e Silva",
+      "balance": 453
+    },
+    {
+      "id": 11,
+      "name": "Maira Silveira e Silva",
+      "balance": 452
+    },
+    {
+      "id": 12,
+      "name": "Marina Teixeira",
+      "balance": 2000
+    },
+    {
+      "id": 13,
+      "name": "marina",
+      "balance": 1000
+    },
+    {
+      "id": 14,
+      "name": "teste 2",
+      "balance": 2500
+    },
+    {
+      "id": 16,
+      "name": "Teste",
+      "balance": 3000
+    },
+    {
+      "id": 17,
+      "name": "Teste",
+      "balance": 3000
+    },
+    {
+      "id": 18,
+      "name": "Teste",
+      "balance": 3000
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+2022-05-01T23:28:20.468Z [my-bank-api] info: Bank up
+2022-05-01T23:29:24.989Z [my-bank-api] info: Bank up
+2022-05-01T23:29:56.999Z [my-bank-api] info: Bank up
+2022-05-01T23:31:51.203Z [my-bank-api] info: Bank up
+2022-05-01T23:32:11.410Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'D:\Bootcamp\BackEnd\Modulo 1\CodigosAulas\Bank\accounts.json'
+2022-05-01T23:32:31.562Z [my-bank-api] info: Bank up and file created
+2022-05-01T23:32:46.500Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'D:\Bootcamp\BackEnd\Modulo 1\CodigosAulas\Bank\accounts.json'
+2022-05-01T23:33:08.592Z [my-bank-api] info: Bank up and file created
+2022-05-01T23:34:38.741Z [my-bank-api] info: Bank up
+2022-05-01T23:34:56.745Z [my-bank-api] info: Bank up
+2022-05-01T23:35:21.010Z [my-bank-api] info: Bank up
+2022-05-01T23:35:51.086Z [my-bank-api] info: Bank up
+2022-05-01T23:35:58.074Z [my-bank-api] info: GET /account/:id - {"id":1,"name":"Gustavo Teixeira","balance":200}
+2022-05-01T23:36:02.520Z [my-bank-api] info: DELETE /account/:id - 4
+2022-05-01T23:36:10.352Z [my-bank-api] info: POST /account - {"id":5,"name":"Gustavo Teixeira Carvalho","balance":200}
+2022-05-01T23:36:15.173Z [my-bank-api] error: PUT /account - Cannot set headers after they are sent to the client
+2022-05-01T23:36:19.732Z [my-bank-api] info: PATCH /account/updateBalance - {"id":2,"balance":458}
+2022-05-01T23:36:41.710Z [my-bank-api] info: Bank up
+2022-05-01T23:36:44.815Z [my-bank-api] info: PUT /account - {"id":2,"name":"Maira Silveira e Silva","balance":256}
+2022-05-01T23:42:49.558Z [my-bank-api] info: Bank up
+2022-05-01T23:42:52.265Z [my-bank-api] info: Bank up
+2022-05-01T23:44:14.450Z [my-bank-api] info: Bank up
+2022-05-01T23:45:17.561Z [my-bank-api] info: Bank up
+2022-05-01T23:46:12.106Z [my-bank-api] info: Bank up
+2022-05-01T23:46:59.170Z [my-bank-api] info: Bank up
+2022-05-01T23:47:45.231Z [my-bank-api] info: Bank up
+2022-05-01T23:51:11.678Z [my-bank-api] info: Bank up
+2022-05-01T23:51:15.450Z [my-bank-api] info: Bank up
+2022-05-01T23:52:06.510Z [my-bank-api] info: GET /account
+2022-05-02T00:07:46.056Z [my-bank-api] info: Bank up
+2022-05-08T21:54:37.896Z [my-bank-api] info: Bank up
+2022-05-08T21:54:40.522Z [my-bank-api] info: GET /account
+2022-05-08T21:54:49.696Z [my-bank-api] info: POST /account - {"id":6,"name":"Gustavo Teixeira Carvalho 2","balance":2002}
+2022-05-08T21:54:53.739Z [my-bank-api] info: GET /account
+2022-05-08T22:01:54.793Z [my-bank-api] info: Bank up
+2022-05-08T22:02:13.636Z [my-bank-api] info: DELETE /account/:id - 6
+2022-05-08T22:02:17.127Z [my-bank-api] info: GET /account/:id - undefined
+2022-05-08T22:02:18.696Z [my-bank-api] info: GET /account/:id - undefined
+2022-05-08T22:02:19.686Z [my-bank-api] info: GET /account/:id - undefined
+2022-05-08T22:02:20.310Z [my-bank-api] info: GET /account/:id - undefined
+2022-05-08T22:02:35.031Z [my-bank-api] info: Bank up
+2022-05-08T22:02:36.354Z [my-bank-api] info: GET /account
+2022-05-08T22:02:43.154Z [my-bank-api] info: POST /account - {"id":7,"name":"Gustavo Teixeira Carvalho 3","balance":2002}
+2022-05-08T22:02:44.998Z [my-bank-api] info: GET /account
+2022-05-08T22:02:53.825Z [my-bank-api] error: PUT /account - Registro não encontrado.
+2022-05-08T22:03:04.331Z [my-bank-api] info: GET /account/:id - {"id":7,"name":"Gustavo Teixeira Carvalho 3","balance":2002}
+2022-05-08T22:03:47.651Z [my-bank-api] error: PATCH /account - Registro não encontrado.
+2022-05-08T22:04:57.596Z [my-bank-api] error: PATCH /account - Registro não encontrado.
+2022-05-08T22:05:01.893Z [my-bank-api] info: Bank up
+2022-05-08T22:05:03.769Z [my-bank-api] error: PATCH /account - Registro não encontrado.
+2022-05-08T22:05:38.178Z [my-bank-api] info: Bank up
+2022-05-08T22:05:40.436Z [my-bank-api] error: PATCH /account - Registro não encontrado.
+2022-05-08T22:06:05.565Z [my-bank-api] info: Bank up
+2022-05-08T22:06:07.340Z [my-bank-api] info: PATCH /account/updateBalance - {"id":3,"balance":453}
+2022-05-08T22:06:10.750Z [my-bank-api] info: PUT /account - {"id":7,"name":"Maira Silveira e Silva","balance":256}
+2022-05-08T22:06:13.015Z [my-bank-api] info: GET /account
+2022-05-08T22:23:19.267Z [my-bank-api] info: Bank up
+2022-05-08T22:23:21.091Z [my-bank-api] info: POST /account - {"id":8,"name":"Gustavo Teixeira Carvalho 3","balance":2002}
+2022-05-08T22:36:17.832Z [my-bank-api] info: Bank up
+2022-05-08T22:36:24.200Z [my-bank-api] info: GET /account
+2022-05-08T22:36:26.908Z [my-bank-api] info: GET /account/:id - {}
+2022-05-08T22:36:30.047Z [my-bank-api] info: GET /account/:id - {}
+2022-05-08T22:36:32.820Z [my-bank-api] info: GET /account/:id - {}
+2022-05-08T22:36:44.509Z [my-bank-api] info: GET /account/:id - {}
+2022-05-08T22:36:51.678Z [my-bank-api] info: DELETE /account/:id - 1
+2022-05-08T22:36:53.407Z [my-bank-api] info: GET /account
+2022-05-08T22:36:58.420Z [my-bank-api] info: POST /account - {"id":9,"name":"Gustavo Teixeira Carvalho 4","balance":2002}
+2022-05-08T22:37:00.660Z [my-bank-api] info: GET /account
+2022-05-08T22:37:06.464Z [my-bank-api] info: PUT /account - {"id":9,"name":"Maira Silveira e Silva","balance":256}
+2022-05-08T22:37:08.393Z [my-bank-api] info: GET /account
+2022-05-08T22:37:14.386Z [my-bank-api] error: PATCH /account - res is not defined
+2022-05-08T22:37:58.419Z [my-bank-api] info: Bank up
+2022-05-08T22:37:59.967Z [my-bank-api] info: PATCH /account/updateBalance - {"id":9,"balance":453}
+2022-05-08T22:38:02.650Z [my-bank-api] info: GET /account
+2022-05-08T22:38:10.023Z [my-bank-api] info: GET /account/:id - {}
+2022-05-08T22:38:22.772Z [my-bank-api] info: GET /account/:id - {}
+2022-05-08T22:38:25.110Z [my-bank-api] info: Bank up
+2022-05-08T22:38:26.314Z [my-bank-api] info: GET /account/:id - {}
+2022-05-08T22:39:06.071Z [my-bank-api] info: Bank up
+2022-05-08T22:39:07.370Z [my-bank-api] error: GET /account - account is not defined
+2022-05-08T22:57:49.764Z [my-bank-api] info: Bank up
+2022-05-08T22:57:55.684Z [my-bank-api] info: GET /account
+2022-05-08T22:58:09.623Z [my-bank-api] info: POST /account - {"id":10,"name":"Gustavo Teixeira Carvalho 4","balance":2002}
+2022-05-08T22:58:32.454Z [my-bank-api] info: Bank up
+2022-05-08T22:58:33.793Z [my-bank-api] info: GET /account
+2022-05-08T22:58:59.834Z [my-bank-api] error: GET /account - Cannot read properties of undefined (reading 'find')
+2022-05-08T22:59:08.228Z [my-bank-api] info: GET /account
+2022-05-08T22:59:44.728Z [my-bank-api] info: Bank up
+2022-05-08T22:59:45.870Z [my-bank-api] info: GET /account
+2022-05-08T23:00:04.857Z [my-bank-api] error: GET /account - account is not defined
+2022-05-08T23:00:09.174Z [my-bank-api] info: DELETE /account/:id - 10
+2022-05-08T23:00:11.102Z [my-bank-api] info: GET /account
+2022-05-08T23:00:18.302Z [my-bank-api] info: POST /account - {"id":11,"name":"Gustavo Teixeira Carvalho 5","balance":2002}
+2022-05-08T23:00:20.510Z [my-bank-api] info: GET /account
+2022-05-08T23:00:30.429Z [my-bank-api] info: PUT /account - {"id":11,"name":"Maira Silveira e Silva","balance":256}
+2022-05-08T23:00:32.655Z [my-bank-api] info: GET /account
+2022-05-08T23:00:37.583Z [my-bank-api] info: PATCH /account/updateBalance - {"id":11,"balance":453}
+2022-05-08T23:00:42.537Z [my-bank-api] info: GET /account
+2022-05-08T23:01:58.893Z [my-bank-api] info: PATCH /account/updateBalance - {"id":11,"balance":452}
+2022-05-08T23:22:36.750Z [my-bank-api] info: Bank up
+2022-05-08T23:45:56.586Z [my-bank-api] info: Bank up
+2022-05-08T23:50:57.379Z [my-bank-api] info: Bank up
+2022-05-09T00:08:13.662Z [my-bank-api] info: Bank up
+2022-05-09T00:12:10.607Z [my-bank-api] info: Bank up
+2022-05-09T00:21:23.161Z [my-bank-api] info: Bank up
+2022-05-09T00:28:45.488Z [my-bank-api] info: Bank up
+2022-05-09T00:37:33.533Z [my-bank-api] info: Bank up
+2022-05-09T00:43:43.231Z [my-bank-api] info: Bank up
+2022-07-01T15:45:06.370Z [my-bank-api] info: Bank up
